@@ -1,8 +1,7 @@
 # Atividade de Revisão Python
 
 **Disciplina:** Desenvolvimento de APIs e Microserviços (DAM)  
-**Integrantes:** Anna Julia Higa Farincho, Leticia Macedo, Evelyn Mercês
-**Grupo:** 4
+**Integrantes e grupos:** Anna Julia Higa Farincho, Leticia Macedo, Evelyn Mercês
 **Instituição:** IMPACTA  
 **Linguagem:** Python 3.13
 
