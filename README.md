@@ -1,5 +1,8 @@
 # Atividade de Revisão Python 
 
+<img width="303" height="166" alt="image" src="https://github.com/user-attachments/assets/e4601b70-ddfb-47ab-b3d7-0c97014e4148" />
+
+
 **Disciplina:** Desenvolvimento de APIs e Microserviços (DAM)  
 
 **Integrantes:** Anna Julia Higa Farincho, Leticia Macedo, Evelyn Mercês | **Grupo: 4**
@@ -12,6 +15,8 @@
 ## Sobre o Projeto
 
 Este repositório apresenta uma coleção abrangente de exercícios práticos em Python, desenvolvidos como atividade de revisão acadêmica. O projeto explora desde conceitos fundamentais da linguagem até integração com APIs externas, oferecendo uma experiência completa de desenvolvimento.
+
+
 
 ## Visão Geral dos Desafios
 
