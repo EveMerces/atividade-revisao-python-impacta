@@ -1,7 +1,7 @@
-# Atividade de Revisão Python
+# Atividade de Revisão Python Cobra
 
 **Disciplina:** Desenvolvimento de APIs e Microserviços (DAM)  
-**Integrantes e grupos:** Anna Julia Higa Farincho, Leticia Macedo, Evelyn Mercês
+**Integrantes:** Anna Julia Higa Farincho, Leticia Macedo, Evelyn Mercês | **Grupo: 4**
 **Instituição:** IMPACTA  
 **Linguagem:** Python 3.13
 
