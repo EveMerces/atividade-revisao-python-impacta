@@ -1,8 +1,10 @@
 # Atividade de Revisão Python
 
-**Disciplina:** Desenvolvimento de Aplicações Móveis (DAM)  
+**Disciplina:** Desenvolvimento de APIs e Microserviços (DAM)  
+**Integrantes:** Anna Julia Higa Farincho, Leticia Macedo, Evelyn Mercês
+**Grupo:** 4
 **Instituição:** IMPACTA  
-**Linguagem:** Python 3.x
+**Linguagem:** Python 3.13
 
 ---
 
@@ -56,7 +58,7 @@ projeto/
 ## Stack Tecnológica
 
 **Core**
-- Python 3.x com bibliotecas nativas
+- Python 3.13 com bibliotecas nativas
 - Manipulação avançada de estruturas de dados
 - Algoritmos de otimização e cálculo
 
