@@ -97,7 +97,7 @@ ATIVIDADE-REVISAO-PYTHON-IMPACTA/
 **Configuração Inicial**
 ```bash
 # Clonar repositório
-git clone <url-do-repositorio>
+git clone https://github.com/EveMerces/atividade-revisao-python-impacta.git
 
 # Instalar dependências
 pip install -r requirements.txt
