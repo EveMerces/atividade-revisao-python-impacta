@@ -15,11 +15,9 @@
 ## Sobre o Projeto
 
 Este repositório apresenta uma coleção abrangente de exercícios práticos em Python, desenvolvidos como atividade de revisão acadêmica. O projeto explora desde conceitos fundamentais da linguagem até integração com APIs externas, oferecendo uma experiência completa de desenvolvimento.
-
-
+# Atividade de Revisão - Python IMPACTA
 
 ## Visão Geral dos Desafios
-
 O projeto está estruturado em 10 exercícios distintos, cada um abordando aspectos específicos da programação Python:
 
 **Sistemas de Cálculo e Lógica**
@@ -44,21 +42,21 @@ O projeto está estruturado em 10 exercícios distintos, cada um abordando aspec
 ## Arquitetura Técnica
 
 ```
-projeto/
-├── README.md              # Documentação principal
-├── requirements.txt       # Dependências do projeto  
-├── .gitignore            # Configuração Git
-└── Atividade/            # Código-fonte dos exercícios
-    ├── ex01.py           # Sistema combustível
-    ├── ex02.py           # Caixa eletrônico
-    ├── ex03.py           # Avaliação acadêmica
-    ├── ex04.py           # Corretor de provas
-    ├── ex05.py           # Sistema lanchonete
-    ├── ex06.py           # Progressão salarial
-    ├── ex07.py           # Análise numérica
-    ├── ex08.py           # API países
-    ├── ex09.py           # API moedas
-    └── ex10.py           # Mapeamento CEP
+ATIVIDADE-REVISAO-PYTHON-IMPACTA/
+├── Atividade/                # Pasta com todos os exercícios
+│   ├── ex01.py              # Sistema de combustível
+│   ├── ex02.py              # Caixa eletrônico
+│   ├── ex03.py              # Avaliação acadêmica
+│   ├── ex04.py              # Corretor de provas
+│   ├── ex05.py              # Sistema lanchonete
+│   ├── ex06.py              # Progressão salarial
+│   ├── ex07.py              # Análise numérica
+│   ├── ex08.py              # API países
+│   ├── ex09.py              # API moedas
+│   └── ex10.py              # Mapeamento CEP
+├── .gitignore               # Configuração Git
+├── README.md                # Documentação do projeto
+└── requirements.txt         # Dependências Python
 ```
 
 ## Stack Tecnológica
@@ -107,17 +105,30 @@ pip install -r requirements.txt
 
 **Execução Individual**
 ```bash
-# Navegar para diretório
-cd Atividade/
-
 # Executar exercício específico
-python ex01.py
+python Atividade/ex01.py
+python Atividade/ex02.py
+# ... e assim por diante
 ```
+
+## Exercícios Disponíveis
+
+| Arquivo | Descrição | Conceitos |
+|---------|-----------|-----------|
+| ex01.py | Cálculo de desconto em combustível | Condicionais, cálculos percentuais |
+| ex02.py | Sistema de caixa eletrônico | Algoritmos de otimização, divisão |
+| ex03.py | Sistema de notas e conceitos | Estruturas condicionais, validação |
+| ex04.py | Corretor automático de provas | Loops, listas, análise estatística |
+| ex05.py | Cardápio de lanchonete | Loops aninhados, acumuladores |
+| ex06.py | Cálculo de progressão salarial | Loops, crescimento exponencial |
+| ex07.py | Análise de dados numéricos | Listas, estatísticas, ordenação |
+| ex08.py | Consulta de informações de países | API REST, JSON parsing |
+| ex09.py | Cotação de moedas | HTTP requests, tratamento de dados |
+| ex10.py | Mapeamento de CEP para zonas de SP | APIs, geolocalização, strings |
 
 ## Aplicações Práticas
 
 Este conjunto de exercícios simula cenários reais de desenvolvimento, preparando para:
-
 - **Sistemas Comerciais** - Gestão de vendas e descontos
 - **Aplicações Financeiras** - Cálculos monetários e progressões
 - **Integrações Corporativas** - Consumo de APIs e processamento de dados
@@ -142,5 +153,4 @@ Este conjunto de exercícios simula cenários reais de desenvolvimento, preparan
 - Validação e sanitização de entrada
 
 ---
-
 *Desenvolvido como atividade acadêmica com foco na aplicação prática de conceitos avançados de Python e integração de sistemas.*
